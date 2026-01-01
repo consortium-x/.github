@@ -1,7 +1,22 @@
+<p align="center">
+  <img src="https://github.com/consortium-x/.github/blob/main/documents/images/company-logos/CX-transparent.avif"
+       alt="Consortium X Logo"
+       width="200"
+       height="200">
+</p>
+
+<p align="center">
+  <img src="https://github.com/consortium-x/.github/blob/main/documents/images/badges/Bronze%20-%20Welsh%20Banner%20(2021).png"
+       alt="Armed Forces Coveneant Bronze Banner"
+       width="200"
+       height="200">
+</p>
+
 # Consortium X LTD
 
+## About Us
+
 Consortium X (CX) is a veteran-founded and led technology company, specialising in Complex Systems Engineering, from architecture and design through implementation, integration, and verification & validation. Headquartered in Wales and serving clients nationwide, we support organisations in delivering assured outcomes across complex, high-value, and strategically important sectors. Our expertise spans Software Engineering and secure Digital Solutions, as well as Engineering Project Management, with a particular depth in Mission Systems. Our team combines operational insight with industry-leading technical capabilities to deliver resilient, future-ready results.
----
 
 ## Our Expertise
 
