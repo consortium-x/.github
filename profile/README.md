@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/consortium-x/.github/blob/main/documents/images/badges/Bronze%20-%20Welsh%20Banner%20(2021).png"
        alt="Armed Forces Coveneant Bronze Banner"
-       width="200"
+       width="auto"
        height="200">
 </p>
 
